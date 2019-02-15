@@ -7,9 +7,11 @@
 
 
 ## Project Relevance
-    The Relevance of this project comes with Test-Driven Development, Debugging, and Code Profiling. This repo does not have tests written into it, so 
+    The Relevance of this project comes with Test-Driven Development, Debugging, and Code Profiling. This repo does not have tests written into it, so our contributions could start by adding tests to the already written code. Once that is in place, we can continue to develop the repo using TDD practices and enhancing the already-implemented features. These enhances include but are not limited to code profiling and optimizations, debugging hard-to-find bugs in the code, and improving accuracy of the machine learning models.
 
 ## Conceptual Design
+    My personal contribution would be to improve the Machine Learning models through a combination of methods. First, I would read into sports analytics literature and compare the current repo with work being done by other analysts. I would then incorporate their methods into my own and work to improve the methods by changing features used in the network as well as the amount of layers and nodes in the net. By diligently working on this training, progress is sure to be made.
+
 
 ### Reference to the Project
 https://github.com/slieb74/NBA-Shot-Analysis
