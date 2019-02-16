@@ -7,7 +7,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;The next steps and future work of this project include optimizing the neural network and recommendation system. Also, the creator wants to use Dash and Flask to make the project accessible online. In this way, there is plenty of work to be done by students with all interests.
 
-![Use Case Image](NBA.png)
+![Use Case Image](Esslinger_NBA.png)
 
 ## Project Relevance
 &nbsp;&nbsp;&nbsp;&nbsp;The Relevance of this project comes with Test-Driven Development, Debugging, and Code Profiling. This repo does not have tests written into it, so our contributions could start by adding tests to the already written code. Once that is in place, we can continue to develop the repo using TDD practices and enhancing the already-implemented features. These enhances include but are not limited to code profiling and optimizations, debugging hard-to-find bugs in the code, and improving accuracy of the machine learning models.
